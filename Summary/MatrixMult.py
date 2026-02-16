@@ -5,7 +5,6 @@
 # [4,5,6]   [9,10]   [0,0]
 #           [11,12]
 
-
 from multiprocessing import Pool
 import random
 
